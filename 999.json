@@ -1,3 +1,4 @@
+
 {
   "section": [
     {
@@ -5,22 +6,22 @@
       "posting": [
         
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",
             "judul": "hari 1",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",
             "judul": "hari 2",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",
             "judul": "hari 3",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",
             "judul": "hari 4",
             "konten": "html xxx html"
           }
@@ -32,22 +33,22 @@
       "posting": [
         
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 1",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 2",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 3",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 4",
             "konten": "html xxx html"
           }
@@ -59,22 +60,22 @@
       "posting": [
         
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 1",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 2",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 3",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 4",
             "konten": "html xxx html"
           }
@@ -86,27 +87,27 @@
       "posting": [
         
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 1",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 2",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 3",
             "konten": "html xxx html"
           },
           {
-            "uuid": 1234567890,
+            "uuid": "1234567890",,
             "judul": "hari 4",
             "konten": "html xxx html"
           }
         
       ]
-    },
+    }
   ]
 }
