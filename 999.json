@@ -1,1 +1,133 @@
-{"section":[{"nama":"bab 1","posting":[{"uuid":"1234567890a","judul":"hari 1","konten":"html xxx html"},{"uuid":"1234567890a","judul":"hari 2","konten":"html xxx html"},{"uuid":"1234567890a","judul":"hari 3","konten":"html xxx html"},{"uuid":"1234567890a","judul":"hari 4","konten":"html xxx html"}]},{"nama":"bab 2","posting":[{"uuid":"1234567890a","judul":"hari 1","konten":"html xxx html"},{"uuid":"1234567890a","judul":"hari 2","konten":"html xxx html"},{"uuid":"1234567890a","judul":"hari 3","konten":"html xxx html"},{"uuid":"1234567890a","judul":"hari 4","konten":"html xxx html"}]},{"nama":"bab 3","posting":[{"uuid":"1234567890a","judul":"hari 1","konten":"html xxx html"},{"uuid":"12345x67890","judul":"hari 2","konten":"html xxx html"},{"uuid":"123456s7890","judul":"hari 3","konten":"html xxx html"},{"uuid":"12345678as90","judul":"hari 4","konten":"html xxx html"}]},{"nama":"bab 4","posting":[{"uuid":"1234w567890","judul":"hari 1","konten":"html xxx html"},{"uuid":"123456a7890","judul":"hari 2","konten":"html xxx html"},{"uuid":"123456789d0","judul":"hari 3","konten":"html xxx html"},{"uuid":"123s4567890","judul":"hari 4","konten":"html xxx html"}]}]}
+
+{
+  "section": [
+    {
+      "nama": "WEEK 1",
+      "posting": [
+        
+          {
+            "uuid": "1",
+            "judul": "Hari 1 - Web Scraping Intro",
+            "konten": "lorem ipsum"
+          },
+          {
+            "uuid": "2",
+            "judul": "hari 2 - Pengenalan BeautifulSoup Wikipedia",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "3",
+            "judul": "hari 3 - Pengambilan Data Wikipedia",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "4",
+            "judul": "hari 4 - Pengambilan Data Website lainnya",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "5",
+            "judul": "hari 5 - Data Mining Intro",
+            "konten": "html xxx html"
+          }
+        
+      ]
+    },
+    {
+      "nama": "WEEK 2",
+      "posting": [
+        
+          {
+            "uuid": "6",
+            "judul": "hari 1 - Pengenalan API",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "7",
+            "judul": "hari 2 - Data Mining Twitter",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "8",
+            "judul": "hari 3 - Finding Trending Topic",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "9",
+            "judul": "hari 4 - Menyimpan dalam JSON",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "10",
+            "judul": "hari 5 - Menyimpan dalam Excel",
+            "konten": "html xxx html"
+          }
+        
+      ]
+    },
+    {
+      "nama": "WEEK 3",
+      "posting": [
+        
+          {
+            "uuid": "11",
+            "judul": "hari 1 - SQL Intro",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "12",
+            "judul": "hari 2 - ERD Design",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "13",
+            "judul": "hari 3 - Menyimpan Dalam SQL",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "14",
+            "judul": "hari 4 - Memanggil Data pada Excel",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "15",
+            "judul": "hari 5 - Memanggil Data pada SQL",
+            "konten": "html xxx html"
+          }
+        
+      ]
+    },
+    {
+      "nama": "WEEK 4",
+      "posting": [
+        
+          {
+            "uuid": "16",
+            "judul": "hari 1 - Membuat Algoritma Filtering",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "17",
+            "judul": "hari 2 - Visualisasi Data",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "18",
+            "judul": "hari 3 - Final Project",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "19",
+            "judul": "hari 4  - Final Project",
+            "konten": "html xxx html"
+          },
+          {
+            "uuid": "20",
+            "judul": "hari 4  - Final Project",
+            "konten": "html xxx html"
+          }
+        
+      ]
+    }
+  ]
+}
